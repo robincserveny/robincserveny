@@ -25,7 +25,7 @@ Theoretical characterisation of systems for the development of atomic clocks @ *
   - Performed high-precision atomic structure calculations on HPC cluster
   - Quantified systematic effects during operation of OACs
   - Calculated and published previously unavailable key quantities
-  - 
+
 
 Sputtering of first-wall materials in fusion reactors @ *Atomic and Plasma Physics Group* at *TU Wien*. BSc project.
   - Performed laboratory simulations of plasma-induced sputtering effects in fusion reactors
