@@ -6,7 +6,7 @@ I focus on high-precision atomic structure calculations of heavy ions, specifica
 I previously focused on calculations for single-valence heavy ions using the decicated code library *AMPSCI[^1]*, which has been developed under the lead of Dr Benjamin Roberts[^2], who serves as my doctoral supervisor. For my project, I am eager to extend my previous research to multi-valence systems, pushing the boundaries of precision measurements by supporting and proposing new atomic clock candidates to address open questions in fundamental physics. In order to accomplish this, I will start by working on extending the current *AMPSCI[^1]* code base to these more complex systems.
 
 [^1]: *[AMPSCI](https://github.com/benroberts999/ampsci) Atomic Many-Body Perturbation Theory in the Screened Coulomb Interaction*
-[^2]: [https://github.com/benroberts999](github.com/benroberts999)
+[^2]: [github.com/benroberts999](https://github.com/benroberts999)
 ---
 
 ## Publications
