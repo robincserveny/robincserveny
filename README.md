@@ -12,9 +12,11 @@ R. Cserveny, B. Roberts. Theoretical characterization of the barium II and radiu
 
 C. Cupak, F. Brandstätter, R. Cserveny et al. Absence of synergistic effects in quasi-simultaneous sputtering of tungsten by Ar and D ions. Nuclear Materials and Energy. 2023, 23, 101435. doi: [10.1016/j.nme.2023.10143](https://doi.org/10.1016/j.nme.2023.101435).
 
+
 ### Conference presentations
 
 R. Cserveny, B. Roberts. ANZCOP-AIP Summer Meeting 2023, The Australian National University, Canberra, ACT, Australia. Talk: [Theoretical characterisation of the Ra ion for the development of atomic clocks and studies of fundamental physics](https://virtual.oxfordabstracts.com/event/4612/submission/312).
+
 
 ### Previous projects
 
@@ -23,6 +25,7 @@ Theoretical characterisation of systems for the development of atomic clocks @ *
   - Performed high-precision atomic structure calculations on HPC cluster
   - Quantified systematic effects during operation of OACs
   - Calculated and published previously unavailable key quantities
+  - 
 
 Sputtering of first-wall materials in fusion reactors @ *Atomic and Plasma Physics Group* at *TU Wien*. BSc project.
   - Performed laboratory simulations of plasma-induced sputtering effects in fusion reactors
